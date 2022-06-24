@@ -1,4 +1,15 @@
+"""
 
+Класс парсит сайт jazzesse.ru
+нужно передать родителю урл
+
+и добавить метод parse где будут получаться данные
+self.result = []
+self.result.append(("data", "time", "title", "desc", "price"))
+
+
+
+"""
 
 from .class_site_parser import SiteParser
 

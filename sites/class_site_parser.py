@@ -1,4 +1,8 @@
+"""
 
+Основной клас (общий функционал) парсинга сайтов
+
+"""
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
